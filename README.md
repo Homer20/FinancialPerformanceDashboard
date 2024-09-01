@@ -1,3 +1,7 @@
-# FinancialPerformanceDashboard
+# Financial Performance Dashboard
 
-This repository contains a financial performance dashboard created using Power Bi
+## Overview
+This repository demonstrates a Sales Dashboard designed using Power BI and DAX to provide insights into monthly sales performance. The dashboard tracks key metrics, visualizes trends, and highlights top-performing categories and customers.
+
+## Features
+- **Key Metrics:** Displays total sales
